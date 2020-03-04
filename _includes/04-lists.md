@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Favorit books
+- Codex Alera
+- Dresden files
+- Harry Potter
